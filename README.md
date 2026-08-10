@@ -9,7 +9,7 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 
 ## Resources
 
-| Tool/Repository | Vetted |
-| :--- | :--- |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [x] |
-| [dtunkelang-job-search](https://dtunkelang-job-search.hf.space/) | [x] |
+| Tool/Repository | Vetted | Description |
+| :--- | :--- | :--- |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [x] | |
+| [dtunkelang-job-search](https://dtunkelang-job-search.hf.space/) | [x] | |
