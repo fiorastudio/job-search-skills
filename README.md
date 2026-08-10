@@ -9,9 +9,9 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 
 ## Resources
 
-| Tool/Repository | Vetted | Description |
-| :--- | :--- | :--- |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [x] | |
-| [dtunkelang-job-search](https://dtunkelang-job-search.hf.space/) | [x] | |
-| [noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill) | YES | |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | - | |
+| No. | Tool/Repository | Description | Vetted |
+| :--- | :--- | :--- | :--- |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |  | ✅ |
+| 2 | [dtunkelang-job-search](https://dtunkelang-job-search.hf.space/) |  | ✅ |
+| 3 | [noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill) |  | ✅ |
+| 4 | [santifer/career-ops](https://github.com/santifer/career-ops) |  | - |
