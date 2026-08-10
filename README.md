@@ -1,13 +1,15 @@
-# Job Search Resources
+# Job Search Skills
 
-My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling.
-
-## Websites
+Steven's Websites:
 - [learnaifluency.com](https://learnaifluency.com)
 - [stevenjieliwu.com](https://stevenjieliwu.com)
 
-## Vetted Tools
+## Mission Statement
+My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling.
+
+## Resources
 
 | Tool/Repository | Vetted |
 | :--- | :--- |
-| [https://dtunkelang-job-search.hf.space/](https://dtunkelang-job-search.hf.space/) | - |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [x] |
+| [dtunkelang-job-search](https://dtunkelang-job-search.hf.space/) | [x] |
